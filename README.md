@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm currently pursuing a Bachelor's degree in Software Engineering at PUCRS in Brazil, expected to graduate in 26/1. In my free time, I work on personal and study-related projects, which I share here on my GitHub.
 
 
